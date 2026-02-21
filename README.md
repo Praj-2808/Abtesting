@@ -41,6 +41,10 @@ This means any observed difference is due to random chance, and the new landing 
 **Alternative Hypothesis (H₁)**
 The new landing page improves the conversion rate compared to the old landing page.
 
+**Business Impact**
+
+This analysis will help the company make a data-driven decision on whether to launch the new landing page, potentially increasing revenue, customer acquisition, and overall product performance.
+
 **Results**
 
 After cleaning the dataset and ensuring correct group-page alignment, a two-proportion hypothesis test was conducted to compare the conversion rates between the control group (old landing page) and the treatment group (new landing page).
@@ -75,6 +79,3 @@ Therefore, it is recommended that the company continue using the existing landin
 H₁: p_new > p_old
 
 This means the new landing page leads to a statistically significant increase in conversions.
-
-**Business Impact**
-This analysis will help the company make a data-driven decision on whether to launch the new landing page, potentially increasing revenue, customer acquisition, and overall product performance.
